@@ -4,7 +4,7 @@ Webscraping, NLP and classification modeling
 ---
 
 ### Description
-Pre-knowledge: different classifiers, webscraping and NLP.
+Pre-knowledge: Different classifiers, webscraping and NLP.
 
 
 ---
@@ -15,7 +15,7 @@ How to create a Reddit post that will get the most engagement from Reddit users.
 #### Goals
 * Collect data by scraping a website (use BeautifulSoup)
 * Building a binary predictor to predicts whether or not a given Reddit post will have above or below the median number of comments. One of the models has to be a Random Forest classifier. 
-* Use NLP
+* Use Natural Language Process (NLP)
 
 
 ---
